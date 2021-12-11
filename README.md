@@ -45,4 +45,3 @@ o	Classifies the output in two classes: 0 and 1
 o	0 refers to Unhappy Class and 1 refers to Happy Class.
 o	Probability of Happy and Unhappy is calculated and updated in both the classes.
 o	If the Happy rate > Unhappy rate=> Employee is happy, else Unhappy.
-![image](https://user-images.githubusercontent.com/71597613/145694611-9723501b-6f99-4489-864e-f834e0ac18b3.png)
